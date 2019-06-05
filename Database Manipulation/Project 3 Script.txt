@@ -1,0 +1,14 @@
+SELECT *
+FROM BENEFITS
+
+EXEC enrollStudent '123422489', 1, 2
+
+EXEC unenrollStudent '123422489', 1, 2
+
+EXEC upLevelStudent
+
+EXEC terminate '12'
+
+
+ SELECT jzhou104.calculateGPA('123422789')
+

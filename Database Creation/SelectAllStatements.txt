@@ -1,0 +1,108 @@
+SELECT * 
+FROM Address
+
+SELECT *
+FROM Benefit
+
+SELECT *
+FROM Building
+
+SELECT * 
+FROM City
+
+SELECT *
+FROM Classroom
+
+SELECT *
+FROM College
+
+SELECT *
+FROM Country
+
+SELECT *
+FROM Course
+
+
+SELECT *
+FROM Course_Enrollment
+
+
+SELECT *
+FROM Course_Information
+
+
+SELECT *
+FROM Course_Prereqs
+
+
+SELECT *
+FROM Course_Schedule
+
+
+SELECT *
+FROM CourseLevel
+
+SELECT *
+FROM CourseTime
+
+
+SELECT *
+FROM Employee
+
+SELECT * 
+FROM EnrollmentStatus
+
+SELECT * 
+FROM Equipment
+
+SELECT *
+FROM Ethnicity
+
+SELECT *
+FROM Gender
+
+SELECT *
+FROM HealthInsurance
+
+SELECT *
+FROM HealthService
+
+SELECT *
+FROM Job
+
+SELECT *
+FROM Major
+
+SELECT *
+FROM Minor
+
+SELECT *
+FROM Membership
+
+SELECT *
+FROM Race
+
+SELECT *
+FROM Semester
+
+SELECT *
+FROM SemesterType
+
+SELECT *
+FROM States
+
+SELECT *
+FROM Student
+
+SELECT *
+FROM StudentLevel
+
+SELECT *
+FROM StudentStatus
+
+SELECT * 
+FROM StudentType
+
+
+
+
